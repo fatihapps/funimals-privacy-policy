@@ -108,3 +108,61 @@ Bu gizlilik politikası gelecekte güncellenebilir.
 Sorularınız için:
 
 fatihstudios.app@gmail.com
+
+
+
+
+---
+
+# Política de Privacidad de Funimals
+
+Última actualización: mayo de 2026
+
+Funimals es un juego educativo apto para niños, diseñado para ayudarles a aprender sobre animales, rompecabezas, juegos de memoria y habilidades matemáticas básicas en un entorno divertido y seguro.
+
+## Información que recopilamos
+
+Funimals puede recopilar información limitada y no personal, como:
+
+- Apodo del jugador
+- Puntuaciones del juego
+- Posiciones en la tabla de clasificación
+- Datos analíticos básicos e informes de errores
+
+No recopilamos información personal sensible, como nombres reales, direcciones, números de teléfono o información de pago.
+
+## Sistema de clasificación
+
+Los jugadores pueden elegir un apodo para aparecer en la tabla de clasificación global. Los apodos inapropiados u ofensivos pueden ser filtrados o eliminados.
+
+## Publicidad
+
+Funimals utiliza Google AdMob para mostrar anuncios. AdMob puede recopilar datos de uso anónimos de acuerdo con las políticas publicitarias de Google.
+
+Más información:
+https://policies.google.com/technologies/ads
+
+## Privacidad infantil
+
+Funimals está diseñado para niños y familias. Nuestro objetivo es proporcionar una experiencia segura y no recopilamos conscientemente información personal de niños.
+
+## Seguridad de los datos
+
+Tomamos medidas razonables para proteger los datos almacenados del juego y la información de la tabla de clasificación.
+
+## Servicios de terceros
+
+Funimals puede utilizar los siguientes servicios de terceros:
+
+- Google Firebase
+- Google AdMob
+
+## Cambios en esta política
+
+Esta Política de Privacidad puede actualizarse en futuras versiones de la aplicación.
+
+## Contacto
+
+Si tienes alguna pregunta sobre esta Política de Privacidad, puedes contactarnos en:
+
+fatihstudios.app@gmail.com
